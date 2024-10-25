@@ -2,7 +2,7 @@
 
 
 #include "CharacterClass.h"
-#include "Blueprint/UserWidget.h"
+
 
 
 
@@ -19,11 +19,7 @@ void ACharacterClass::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	 UUserWidget *HUD = CreateWidget(this, HUDClass);
-	if (HUD != nullptr)
-	{
-		HUD->AddToViewport();
-	}
+	 
 }
 
 // Called every frame

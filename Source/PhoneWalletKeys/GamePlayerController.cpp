@@ -2,6 +2,7 @@
 
 
 #include "GamePlayerController.h"
+#include "Blueprint/UserWidget.h"
 
 
 
@@ -9,5 +10,9 @@ void AGamePlayerController::BeginPlay()
 {
     Super::BeginPlay();
 
-   
+   UUserWidget *HUD = CreateWidget(this, HUDClass);
+	if (HUD != nullptr)
+	{
+		HUD->AddToViewport();
+	}
 }

@@ -20,6 +20,9 @@ protected:
 
 private:
 
+	private:
+	UPROPTERY(EditAnywhere)
+	TSubclassOf<class UUserWidget> HUDClass;
 	
 	
 };
