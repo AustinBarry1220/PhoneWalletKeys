@@ -23,12 +23,5 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
-	void MoveForward(float AxisValue);
-	void MoveRight(float AxisValue);
-
-	UPROPERTY(EditAnywhere)
-	float RotationRate = 10;
+	
 };

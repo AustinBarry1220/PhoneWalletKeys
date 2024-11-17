@@ -30,7 +30,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +47,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +67,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +84,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +121,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +138,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +155,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +175,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +192,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Test",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +209,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Test",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +229,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Test",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Shipping",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +263,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Shipping",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,7 @@
 					"PhoneWalletKeys",
 					"Win64",
 					"Shipping",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +300,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +317,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +337,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Debug",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +354,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +371,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +391,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +408,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +425,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +445,7 @@
 					"PhoneWalletKeysEditor",
 					"Win64",
 					"Development",
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +462,7 @@
 			{
 				"name": "Launch PhoneWalletKeys (Debug)",
 				"request": "launch",
-				"program": "E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "PhoneWalletKeys Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +478,7 @@
 			{
 				"name": "Launch PhoneWalletKeys (DebugGame)",
 				"request": "launch",
-				"program": "E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "PhoneWalletKeys Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +494,7 @@
 			{
 				"name": "Launch PhoneWalletKeys (Development)",
 				"request": "launch",
-				"program": "E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "PhoneWalletKeys Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +510,7 @@
 			{
 				"name": "Launch PhoneWalletKeys (Test)",
 				"request": "launch",
-				"program": "E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "PhoneWalletKeys Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +526,7 @@
 			{
 				"name": "Launch PhoneWalletKeys (Shipping)",
 				"request": "launch",
-				"program": "E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "PhoneWalletKeys Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +545,7 @@
 				"program": "D:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "PhoneWalletKeysEditor Win64 Debug Build",
 				"args": [
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
 				],
 				"cwd": "D:\\UE_5.4",
 				"stopAtEntry": false,
@@ -562,7 +562,7 @@
 				"program": "D:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "PhoneWalletKeysEditor Win64 DebugGame Build",
 				"args": [
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
 				],
 				"cwd": "D:\\UE_5.4",
 				"stopAtEntry": false,
@@ -579,7 +579,7 @@
 				"program": "D:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "PhoneWalletKeysEditor Win64 Development Build",
 				"args": [
-					"E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
+					"C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject"
 				],
 				"cwd": "D:\\UE_5.4",
 				"stopAtEntry": false,
@@ -599,7 +599,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=E:\\GameDev\\UnrealEngine\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
+					"-project=C:\\Users\\james\\OneDrive\\Desktop\\GroupProject\\PhoneWalletKeys\\PhoneWalletKeys.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
